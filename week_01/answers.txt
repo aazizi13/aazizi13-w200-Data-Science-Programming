@@ -1,0 +1,103 @@
+ahmad@Ahmad-Azizi MINGW64 ~
+$ cd ~/Desktop
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop
+$ cd ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS (master)
+$ mkdir week_01
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS (master)
+$ cd week_01
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01 (master)
+$ pwd
+/c/Users/ahmad/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01 (master)
+$ touch answers.txt
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01 (master)
+$ mkdir s1
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01 (master)
+$ cd s1
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1 (master)
+$ mkdir s3
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1 (master)
+$ mkdir s2
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1 (master)
+$ cd s3
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s3 (master)
+$ touch conf.txt
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s3 (master)
+$ cd ..
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1 (master)
+$ cd s2
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2 (master)
+$ touch text_chunk1.txt
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2 (master)
+$ mkdir Advanced
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2 (master)
+$ cd Advanced
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2/Advanced (master)
+$ touch text_chunk2.txt
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2/Advanced (master)
+$ pwd
+/c/Users/ahmad/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2/Advanced
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2/Advanced (master)
+$ cd ..
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2 (master)
+$ cd ..
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1 (master)
+$ cd ..
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01 (master)
+$ cd s1
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1 (master)
+$ cd s3
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s3 (master)
+$ echo "Virtual (conda) environments are my favorite new technology" >> conf.txt
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s3 (master)
+$ cd ..
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1 (master)
+$ cd s2
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2 (master)
+$ echo "Virtual environments are good for learning new technology" >> text_chunk1.txt
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2 (master)
+$ pwd
+/c/Users/ahmad/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2 (master)
+$ cp text_chunk1.txt ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2/Advanced
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2 (master)
+$ cd Advanced
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2/Advanced (master)
+$ echo "I like them because they are fun" >> text_chunk1.txt
+
+ahmad@Ahmad-Azizi MINGW64 ~/Desktop/mids-w200-assignments-upstream-summer2021/SUBMISSIONS/week_01/s1/s2/Advanced (master)
+$ cat text_chunk1.txt > text_chunk2.txt
+
+
